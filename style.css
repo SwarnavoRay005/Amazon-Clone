@@ -19,7 +19,7 @@
 }
 
 .logo {
-  background-image: url("images\amazon.jpg");
+  background-image: url("images\\amazon.jpg");
   background-size: cover;
   height: 50px;
   width: 100%;
@@ -134,7 +134,7 @@ span {
 }
 
 .home-section {
-  background-image: url("images\games.jpg");
+  background-image: url("images\\games.jpg");
   height: 300px;
   background-size: cover;
   display: flex;
@@ -179,7 +179,7 @@ span {
 }
 
 .box1-image1 {
-  background-image: url("images\box0.jpg");
+  background-image: url("images\\box0.jpg");
   height: 265px;
   width: 303px;
   background-size: cover;
@@ -208,7 +208,7 @@ span {
 }
 
 .box2-image2 {
-  background-image: url("images\clothing.jpg");
+  background-image: url("images\\clothing.jpg");
   height: 263px;
   width: 327px;
   background-size: cover;
@@ -239,7 +239,7 @@ span {
 }
 
 .box3-image3 {
-  background-image: url("images\skin care.jpg");
+  background-image: url("images\\skin care.jpg");
   height: 265px;
   width: 303px;
   background-size: cover;
@@ -270,7 +270,7 @@ span {
 }
 
 .box4-image4 {
-  background-image: url("images\kitchen appliances.jpg");
+  background-image: url("images\\kitchen appliances.jpg");
   height: 265px;
   width: 303px;
   background-size: cover;
@@ -301,7 +301,7 @@ span {
 }
 
 .box5-image5 {
-  background-image: url("images\Pc deals.jpg");
+  background-image: url("images\\Pc deals.jpg");
   height: 265px;
   width: 303px;
   background-size: cover;
@@ -331,7 +331,7 @@ span {
   cursor: pointer;
 }
 .box6-image6 {
-  background-image: url("images\watches.jpg");
+  background-image: url("images\\watches.jpg");
   height: 263px;
   width: 327px;
   background-size: cover;
@@ -362,7 +362,7 @@ span {
 }
 
 .box7-image7 {
-  background-image: url("images\glasses.jpg");
+  background-image: url("images\\glasses.jpg");
   background-size: cover;
   height: 265px;
   width: 303px;
@@ -394,7 +394,7 @@ span {
 }
 
 .box8-image8 {
-  background-image: url("images\laptops.jpg");
+  background-image: url("images\\laptops.jpg");
   height: 265px;
   width: 303px;
   background-size: cover;
